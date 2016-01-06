@@ -1,15 +1,15 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+category : posts
+tagline: ""
+tags : [MEAN, beginner, github, HTML5]
 ---
 {% include JB/setup %}
 
 Today I start to learn web development. My purpose is to master MEAN bundle stack and be a full stack developer. 
 
 
-## 
+ 
 
 ### Github and Jekyll
 
@@ -19,5 +19,8 @@ A fork is a copy of the whole project at a certain time. Some developers continu
 
 "Fork A Repo. A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea."
 
+Combining gitpage and Jekyll, I created my blog on github. The tutorial for this is http://jekyllbootstrap.com/usage/jekyll-quick-start.html#toc_7
+
 ### Html5
 
+<!DOCTYPE html> goes at the top of every HTML5 page.
