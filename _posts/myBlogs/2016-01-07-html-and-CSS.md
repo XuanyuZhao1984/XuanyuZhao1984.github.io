@@ -12,7 +12,7 @@ tags : [MEAN, Web, study]
 
 ### HTML5
 html specifies the content of the web site. It contains elements like this syntax:
-<start tag attributes>CONTENT</end tag>, elements could be nested.
+"<start tag attributes>CONTENT</end tag>", elements could be nested.
 
 
 ### CSS
